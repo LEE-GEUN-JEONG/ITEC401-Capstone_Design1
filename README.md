@@ -1,6 +1,7 @@
 # ITEC401 / 종합설계프로젝트1 / 2020년도 / 1학기 / 심재훈
 ## Cadence virtuoso tool을 사용하여 SRAM SYSTEM을 Full-Custom Design 하였음.
 ## 프로젝트를 위한 여러가지 디지털 및 아날로그 회로에 대한 자료와 최종 프로젝트를 정리하여 나열하였음.
+## 본 프로젝트를 위해서는 openvpn으로 학내 서버에 접속한 뒤 mobaxterm으로 리눅스에 접속하였음.
 ## 본 프로젝트에서는 full custom design 뿐만 아니라 cadence virtuoso tool 내부의 calculator 사용을 위해 코딩도 진행하였음.
 ## 최종프로젝트 입력신호를 위한 pwl file을 첨부하였음.
 
