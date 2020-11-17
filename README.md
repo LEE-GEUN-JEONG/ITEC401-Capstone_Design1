@@ -2,6 +2,7 @@
 ## Cadence virtuoso tool을 사용하여 SRAM SYSTEM을 Full-Custom Design 하였음.
 ## 프로젝트를 위한 여러가지 디지털 및 아날로그 회로에 대한 자료와 최종 프로젝트를 정리하여 나열하였음.
 ## 본 프로젝트에서는 full custom design 뿐만 아니라 cadence virtuoso tool 내부의 calculator 사용을 위해 코딩도 진행하였음.
+## 최종프로젝트 입력신호를 위한 pwl file을 첨부하였음.
 
 ### 프로젝트 제안서
 ![image](https://user-images.githubusercontent.com/58419421/99411334-d432bd80-2936-11eb-892d-51bff8774aae.png)
@@ -16,7 +17,7 @@
 ![image](https://user-images.githubusercontent.com/58419421/99411846-64710280-2937-11eb-84bf-53dc4150e85d.png)
 ![image](https://user-images.githubusercontent.com/58419421/99412179-c7629980-2937-11eb-912c-ac57f1fa7949.png)
 
-### 최종 프로젝트
+# 최종 프로젝트
 Design Project
 Spring, 2020
 ITEC401011
